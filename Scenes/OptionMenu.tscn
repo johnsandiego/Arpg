@@ -1,0 +1,46 @@
+[gd_scene format=3 uid="uid://si18rkvheykc"]
+
+[node name="OptionMenu" type="Node2D"]
+
+[node name="Difficulty" type="Label" parent="."]
+offset_top = 4.0
+offset_right = 146.0
+offset_bottom = 27.0
+text = "Difficulty"
+
+[node name="OptionButton" type="OptionButton" parent="."]
+offset_top = 30.0
+offset_right = 91.0
+offset_bottom = 61.0
+item_count = 3
+popup/item_0/text = "Easy"
+popup/item_0/id = 0
+popup/item_1/text = "Normal"
+popup/item_1/id = 1
+popup/item_2/text = "Hard"
+popup/item_2/id = 2
+
+[node name="Controls" type="Label" parent="."]
+offset_top = 61.0
+offset_right = 146.0
+offset_bottom = 84.0
+text = "Controls"
+
+[node name="TextEdit" type="TextEdit" parent="."]
+offset_top = 84.0
+offset_right = 197.0
+offset_bottom = 177.0
+text = "WASD for movement
+space to dash
+shift to sprint"
+
+[node name="Volume" type="Label" parent="."]
+offset_top = 182.0
+offset_right = 146.0
+offset_bottom = 205.0
+text = "Volume"
+
+[node name="HSlider" type="HSlider" parent="."]
+offset_top = 206.0
+offset_right = 146.0
+offset_bottom = 224.0

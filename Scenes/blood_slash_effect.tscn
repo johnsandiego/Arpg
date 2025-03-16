@@ -1,0 +1,23 @@
+[gd_scene load_steps=3 format=3 uid="uid://8ah1b8xpfyxc"]
+
+[ext_resource type="Texture2D" uid="uid://5ekw1va2rkth" path="res://Assets/sprites/coin.png" id="1_c77ee"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_c77ee"]
+size = Vector2(8, 10)
+
+[node name="BloodSlashEffect" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_c77ee")
+region_enabled = true
+region_rect = Rect2(20, 3, 8, 10)
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+visible = false
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+shape = SubResource("RectangleShape2D_c77ee")
+
+[node name="Timer" type="Timer" parent="."]

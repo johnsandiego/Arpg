@@ -1,0 +1,35 @@
+[gd_scene load_steps=5 format=3 uid="uid://b35ij3lf0b16p"]
+
+[ext_resource type="Script" uid="uid://cjkxlky2qrckd" path="res://Scripts/Enemy.cs" id="1_1ofap"]
+[ext_resource type="Texture2D" uid="uid://baknuekqjt6ro" path="res://Assets/sprites/slime_green.png" id="2_wovta"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_vltbo"]
+size = Vector2(12, 13)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_wovta"]
+size = Vector2(14, 14)
+
+[node name="Enemy" type="CharacterBody2D"]
+top_level = true
+collision_layer = 2
+collision_mask = 0
+script = ExtResource("1_1ofap")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("2_wovta")
+region_enabled = true
+region_rect = Rect2(5, 36, 14, 12)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, -0.5)
+shape = SubResource("RectangleShape2D_vltbo")
+
+[node name="hitbox" type="Area2D" parent="."]
+collision_layer = 12
+collision_mask = 15
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="hitbox"]
+position = Vector2(0, -1)
+shape = SubResource("RectangleShape2D_wovta")
+
+[connection signal="area_entered" from="hitbox" to="." method="OnAreaEntered"]

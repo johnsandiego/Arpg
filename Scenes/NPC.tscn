@@ -1,0 +1,18 @@
+[gd_scene load_steps=4 format=3 uid="uid://byokge66qf5c4"]
+
+[ext_resource type="Texture2D" uid="uid://jo0pdenjn1xn" path="res://Assets/sprites/slime_purple.png" id="1_1ow4p"]
+[ext_resource type="Script" uid="uid://jmdxs6vaaj15" path="res://Scripts/NPC.cs" id="1_ndt8u"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_5okk8"]
+size = Vector2(14, 12)
+
+[node name="Npc" type="CharacterBody2D"]
+script = ExtResource("1_ndt8u")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_1ow4p")
+region_enabled = true
+region_rect = Rect2(77, 12, 14, 12)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_5okk8")

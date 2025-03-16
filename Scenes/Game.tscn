@@ -1,0 +1,25 @@
+[gd_scene load_steps=7 format=3 uid="uid://dlqrdec4q62rs"]
+
+[ext_resource type="Script" uid="uid://bcjqrifajetcm" path="res://Scripts/Game.cs" id="1_7o2xl"]
+[ext_resource type="PackedScene" uid="uid://8ou4bft4v36l" path="res://Scenes/Player.tscn" id="1_u0bo2"]
+[ext_resource type="Script" uid="uid://bm42eqii5ic5f" path="res://Scripts/GameManager.cs" id="3_b2bpf"]
+[ext_resource type="PackedScene" uid="uid://cvh05gtaqiak2" path="res://Scenes/UI.tscn" id="3_oyrsl"]
+[ext_resource type="PackedScene" uid="uid://b35ij3lf0b16p" path="res://Scenes/Enemy.tscn" id="4_7lihs"]
+[ext_resource type="Script" uid="uid://b4gcpsgojm5h2" path="res://Scripts/SaveGame.cs" id="4_o8ec0"]
+
+[node name="Game" type="Node2D"]
+script = ExtResource("1_7o2xl")
+
+[node name="Player" parent="." instance=ExtResource("1_u0bo2")]
+position = Vector2(573, 321)
+
+[node name="GameManager" type="Node2D" parent="."]
+script = ExtResource("3_b2bpf")
+enemyScene = ExtResource("4_7lihs")
+spawnInterval = 50.0
+
+[node name="Ui" parent="." node_paths=PackedStringArray("player") instance=ExtResource("3_oyrsl")]
+player = NodePath("../Player")
+
+[node name="SaveGame" type="Node" parent="."]
+script = ExtResource("4_o8ec0")

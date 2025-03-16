@@ -1,0 +1,20 @@
+[gd_scene load_steps=4 format=3 uid="uid://bmacsdxuittnc"]
+
+[ext_resource type="Texture2D" uid="uid://ck8nes2dl4gbd" path="res://Assets/Kyrise's 16x16 RPG Icon Pack - V1.3/icons/32x32/arrow_02a.png" id="1_1g1yv"]
+[ext_resource type="Script" uid="uid://bctiphnxyq33v" path="res://Scripts/Missile.cs" id="1_u28tq"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_1g1yv"]
+size = Vector2(42, 9)
+
+[node name="Missile" type="Area2D"]
+collision_layer = 4
+collision_mask = 2
+script = ExtResource("1_u28tq")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+rotation = 2.3706
+texture = ExtResource("1_1g1yv")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(1, -0.5)
+shape = SubResource("RectangleShape2D_1g1yv")

@@ -1,0 +1,54 @@
+[gd_scene load_steps=2 format=3 uid="uid://cvh05gtaqiak2"]
+
+[ext_resource type="Script" uid="uid://c7xo1j74sbq01" path="res://Scripts/UI.cs" id="1_w371h"]
+
+[node name="UI" type="CanvasLayer" node_paths=PackedStringArray("hpBar", "manaBar", "levelLabel", "uiScore", "uiWave")]
+script = ExtResource("1_w371h")
+hpBar = NodePath("HealthBar")
+manaBar = NodePath("ManaBar")
+levelLabel = NodePath("Level")
+uiScore = NodePath("Score")
+uiWave = NodePath("Wave")
+
+[node name="HealthBar" type="ProgressBar" parent="."]
+offset_left = 24.0
+offset_right = 432.0
+offset_bottom = 27.0
+
+[node name="ManaBar" type="ProgressBar" parent="."]
+offset_left = 24.0
+offset_top = 27.0
+offset_right = 432.0
+offset_bottom = 54.0
+
+[node name="HPLabel" type="Label" parent="."]
+offset_right = 40.0
+offset_bottom = 23.0
+text = "HP"
+
+[node name="MPLabel" type="Label" parent="."]
+offset_top = 27.0
+offset_right = 40.0
+offset_bottom = 50.0
+text = "MP"
+
+[node name="Level" type="Label" parent="."]
+offset_top = 54.0
+offset_right = 40.0
+offset_bottom = 77.0
+text = "Level"
+
+[node name="Score" type="Label" parent="."]
+offset_left = 94.0
+offset_top = 54.0
+offset_right = 137.0
+offset_bottom = 77.0
+text = "Score"
+
+[node name="Wave" type="Label" parent="."]
+offset_top = 77.0
+offset_right = 43.0
+offset_bottom = 100.0
+text = "Wave"
+
+[node name="Ui" type="Node2D" parent="."]
