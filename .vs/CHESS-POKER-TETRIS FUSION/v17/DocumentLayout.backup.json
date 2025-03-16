@@ -1,65 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\",
+  "WorkspaceRootPath": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\chess-poker-tetris-fusion\\scripts\\attackmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:scripts\\attackmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Arpg.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\arpg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Arpg.csproj|solutionrelative:arpg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\chess-poker-tetris-fusion\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\scenes\\floatinghealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:scenes\\floatinghealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\chess-poker-tetris-fusion\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\scripts\\attackmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:scripts\\attackmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\chess-poker-tetris-fusion\\scripts\\missile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\scripts\\missile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:scripts\\missile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\chess-poker-tetris-fusion\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\chess-poker-tetris-fusion\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\chess-poker-tetris-fusion\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\chess-poker-tetris-fusion\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\chess-poker-tetris-fusion\\scripts\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\scripts\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:scripts\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\chess-poker-tetris-fusion\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\chess-poker-tetris-fusion\\scripts\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\scripts\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:scripts\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\chess-poker-tetris-fusion\\scripts\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\scripts\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:scripts\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\chess-poker-tetris-fusion\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\chess-poker-tetris-fusion\\scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:scripts\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\chess-poker-tetris-fusion\\scripts\\savegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\scripts\\savegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{753DD56D-A64D-48F2-B5B3-FCC758D0CB6B}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:scripts\\savegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,20 +78,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Scripts\\Player.cs",
-              "ToolTip": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\Player.cs",
               "RelativeToolTip": "Scripts\\Player.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAADwv2oAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswGoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T00:22:50.214Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Arpg.csproj",
+              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Arpg.csproj",
+              "RelativeDocumentMoniker": "Arpg.csproj",
+              "ToolTip": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Arpg.csproj",
+              "RelativeToolTip": "Arpg.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T20:27:14.588Z",
               "EditorCaption": ""
             },
             {
@@ -92,11 +113,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "FloatingHealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scenes\\FloatingHealthBar.cs",
+              "RelativeDocumentMoniker": "Scenes\\FloatingHealthBar.cs",
+              "ToolTip": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scenes\\FloatingHealthBar.cs",
+              "RelativeToolTip": "Scenes\\FloatingHealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T01:45:46.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Missile.cs",
-              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\Missile.cs",
+              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\Missile.cs",
               "RelativeDocumentMoniker": "Scripts\\Missile.cs",
-              "ToolTip": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\Missile.cs",
+              "ToolTip": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\Missile.cs",
               "RelativeToolTip": "Scripts\\Missile.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAowCwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -105,11 +139,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Weapon.cs",
-              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\Weapon.cs",
               "RelativeDocumentMoniker": "Scripts\\Weapon.cs",
-              "ToolTip": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\Weapon.cs",
+              "ToolTip": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\Weapon.cs",
               "RelativeToolTip": "Scripts\\Weapon.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAUwE8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -118,11 +152,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Scripts\\GameManager.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAAAiwGAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,23 +165,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Ability.cs",
-              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\Ability.cs",
+              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\Ability.cs",
               "RelativeDocumentMoniker": "Scripts\\Ability.cs",
-              "ToolTip": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\Ability.cs",
+              "ToolTip": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\Ability.cs",
               "RelativeToolTip": "Scripts\\Ability.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T14:16:59.866Z"
+              "WhenOpened": "2025-03-02T14:16:59.866Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AttackManager.cs",
-              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\AttackManager.cs",
+              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\AttackManager.cs",
               "RelativeDocumentMoniker": "Scripts\\AttackManager.cs",
-              "ToolTip": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\AttackManager.cs",
+              "ToolTip": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\AttackManager.cs",
               "RelativeToolTip": "Scripts\\AttackManager.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAArwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,35 +191,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "UI.cs",
-              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\UI.cs",
+              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\UI.cs",
               "RelativeDocumentMoniker": "Scripts\\UI.cs",
-              "ToolTip": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\UI.cs",
+              "ToolTip": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\UI.cs",
               "RelativeToolTip": "Scripts\\UI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T02:22:50.065Z"
+              "WhenOpened": "2025-02-21T02:22:50.065Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "MainMenu.cs",
-              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\MainMenu.cs",
               "RelativeDocumentMoniker": "Scripts\\MainMenu.cs",
-              "ToolTip": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\MainMenu.cs",
               "RelativeToolTip": "Scripts\\MainMenu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T02:05:07.455Z"
+              "WhenOpened": "2025-02-21T02:05:07.455Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\Game.cs",
+              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\Game.cs",
               "RelativeDocumentMoniker": "Scripts\\Game.cs",
-              "ToolTip": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\Game.cs",
+              "ToolTip": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\Game.cs",
               "RelativeToolTip": "Scripts\\Game.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAUwBwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -193,76 +230,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Level.cs",
-              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\Level.cs",
+              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\Level.cs",
               "RelativeDocumentMoniker": "Scripts\\Level.cs",
-              "ToolTip": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\Level.cs",
+              "ToolTip": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\Level.cs",
               "RelativeToolTip": "Scripts\\Level.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T01:17:53.985Z"
+              "WhenOpened": "2025-02-21T01:17:53.985Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "NPC.cs",
-              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\NPC.cs",
+              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\NPC.cs",
               "RelativeDocumentMoniker": "Scripts\\NPC.cs",
-              "ToolTip": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\NPC.cs",
+              "ToolTip": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\NPC.cs",
               "RelativeToolTip": "Scripts\\NPC.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T00:47:58.658Z"
+              "WhenOpened": "2025-02-21T00:47:58.658Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Projectile.cs",
-              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\Projectile.cs",
               "RelativeDocumentMoniker": "Scripts\\Projectile.cs",
-              "ToolTip": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\Projectile.cs",
+              "ToolTip": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\Projectile.cs",
               "RelativeToolTip": "Scripts\\Projectile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T00:35:02.047Z"
+              "WhenOpened": "2025-02-21T00:35:02.047Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Scripts\\Enemy.cs",
-              "ToolTip": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\Enemy.cs",
               "RelativeToolTip": "Scripts\\Enemy.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAADwv0MAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAADwv0sAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T00:27:45.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "SaveGame.cs",
-              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\SaveGame.cs",
+              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\SaveGame.cs",
               "RelativeDocumentMoniker": "Scripts\\SaveGame.cs",
-              "ToolTip": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\SaveGame.cs",
+              "ToolTip": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\SaveGame.cs",
               "RelativeToolTip": "Scripts\\SaveGame.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T00:18:29.877Z"
+              "WhenOpened": "2025-02-21T00:18:29.877Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "PlayerStats.cs",
-              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\PlayerStats.cs",
+              "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\PlayerStats.cs",
               "RelativeDocumentMoniker": "Scripts\\PlayerStats.cs",
-              "ToolTip": "C:\\Users\\johnp\\Documents\\chess-poker-tetris-fusion\\Scripts\\PlayerStats.cs",
+              "ToolTip": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\PlayerStats.cs",
               "RelativeToolTip": "Scripts\\PlayerStats.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T00:16:48.262Z"
+              "WhenOpened": "2025-02-21T00:16:48.262Z",
+              "EditorCaption": ""
             }
           ]
         }
