@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{82DC1928-EB7F-4EE9-9C5F-E22843C08C76}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DC1928-EB7F-4EE9-9C5F-E22843C08C76}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{82DC1928-EB7F-4EE9-9C5F-E22843C08C76}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\chess-poker-tetris fusion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{82DC1928-EB7F-4EE9-9C5F-E22843C08C76}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:chess-poker-tetris fusion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{82DC1928-EB7F-4EE9-9C5F-E22843C08C76}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82DC1928-EB7F-4EE9-9C5F-E22843C08C76}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82DC1928-EB7F-4EE9-9C5F-E22843C08C76}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DC1928-EB7F-4EE9-9C5F-E22843C08C76}|Chess-Poker-Tetris Fusion.csproj|solutionrelative:scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82DC1928-EB7F-4EE9-9C5F-E22843C08C76}|Chess-Poker-Tetris Fusion.csproj|c:\\users\\johnp\\documents\\arpg\\arpg\\scripts\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,11 +86,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Scripts\\Player.cs",
@@ -102,9 +102,17 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Chess-Poker-Tetris Fusion",
+              "DocumentIndex": 1,
+              "Title": "Chess-Poker-Tetris Fusion.csproj",
               "DocumentMoniker": "C:\\USERS\\JOHNP\\DOCUMENTS\\ARPG\\ARPG\\Chess-Poker-Tetris Fusion.csproj",
               "RelativeDocumentMoniker": "Chess-Poker-Tetris Fusion.csproj",
               "ToolTip": "C:\\USERS\\JOHNP\\DOCUMENTS\\ARPG\\ARPG\\Chess-Poker-Tetris Fusion.csproj",
@@ -116,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Node2d.cs",
               "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Node2d.cs",
               "RelativeDocumentMoniker": "Node2d.cs",
@@ -124,16 +132,11 @@
               "RelativeToolTip": "Node2d.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T23:06:27.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-03-16T23:06:27.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Arpg.csproj",
               "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Arpg.csproj",
               "RelativeDocumentMoniker": "Arpg.csproj",
@@ -144,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FloatingHealthBar.cs",
               "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scenes\\FloatingHealthBar.cs",
               "RelativeDocumentMoniker": "Scenes\\FloatingHealthBar.cs",
@@ -156,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Missile.cs",
               "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\Missile.cs",
               "RelativeDocumentMoniker": "Scripts\\Missile.cs",
@@ -168,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Weapon.cs",
               "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\Weapon.cs",
               "RelativeDocumentMoniker": "Scripts\\Weapon.cs",
@@ -180,15 +183,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Scripts\\GameManager.cs",
               "ToolTip": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Scripts\\GameManager.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAiwGAAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T18:51:37.244Z"
+              "WhenOpened": "2025-03-02T18:51:37.244Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -288,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\johnp\\Documents\\arpg\\Arpg\\Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Scripts\\Enemy.cs",
@@ -296,8 +300,7 @@
               "RelativeToolTip": "Scripts\\Enemy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T00:27:45.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T00:27:45.68Z"
             },
             {
               "$type": "Document",
